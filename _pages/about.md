@@ -12,14 +12,14 @@ I am Ling Lin, a Ph.D. candidate at the University of Science and Technology of 
 🔥 News
 ======
 * 2024.09 🧑‍🎓 Started Ph.D. journey at USTC.
-* 2024.06 🎉 One first-authored paper has been accepted by **IEEE TCSVT** (<font color=orange>CCF-B<\font>, IF=8.3)
-* 2024.01 🎉 One first-authored paper has been accepted by **IEEE TIP** (<font color=red>CCF-A<\font>, IF=10.8)
-* 2023.12 🎉 One first-authored paper has been accepted by **ICASSP'24** (<font color=orange>CCF-B<\font>, IF=8.3)
+* 2024.06 🎉 One first-authored paper has been accepted by **IEEE TCSVT** (<font color=orange>CCF-B</font>, IF=8.3)
+* 2024.01 🎉 One first-authored paper has been accepted by **IEEE TIP** (<font color=red>CCF-A</font>, IF=10.8)
+* 2023.12 🎉 One first-authored paper has been accepted by **ICASSP'24** (<font color=orange>CCF-B</font>)
 
 
 📖 Publications
 ======
-(#: Equal contribution, †: Corresponding author )
+(*: Equal contribution, †: Corresponding author )
 
 
 Site-wide configuration
