@@ -21,10 +21,10 @@ I am Ling Lin, a Ph.D. candidate at the University of Science and Technology of 
 ======
 (*: Equal contribution, †: Corresponding author )
 
-# Conference Publications:
+## Conference Publications:
 * <span style="background-color: #03228D"><font color=white size=3>ICASSP 2024</font></span> (<font color=orange>CCF-B</font>) **Ling Lin**, Congcong Zhu<sup>†</sup>, Lin Zhou, Jingrun Chen. [Toward quantifiable face age transformation](https://ieeexplore.ieee.org/abstract/document/10448304). In Proceedings of IEEE International Conference on Acoustics,Speech and Signal Processing (ICASSP), 2024.
 
-# Journal Publications:
+## Journal Publications:
 * <span style="background-color: #03228D"><font color=white size=3>TCSVT</font></span> (<font color=orange>CCF-B</font>) **Ling Lin**<sup>*</sup>, Tao Wang<sup>*</sup>, Hao Liu, Congcong Zhu<sup>†</sup>, Jingrun Chen. [Toward Quantifiable Face Age Transformation Under Attribute Unbias](https://ieeexplore.ieee.org/abstract/document/10583942). In Proceedings of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 * <span style="background-color: #03228D"><font color=white size=3>TIP</font></span> (<font color=red>CCF-A</font>) **Ling Lin**, Hao Liu<sup>†</sup>, Jinqiao Liang, Zhendong Li, Jiao Feng, Hu Han. [Consensus-Agent Deep Reinforcement Learning for Face Aging](https://ieeexplore.ieee.org/abstract/document/10458950). In Proceedings of IEEE Transactions on Image Processing (TIP).
 
