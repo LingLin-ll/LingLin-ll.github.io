@@ -22,7 +22,7 @@ I am Ling Lin, a Ph.D. candidate at the University of Science and Technology of 
 (*: Equal contribution, †: Corresponding author )
 
 Conference Publications:
-* <span style="background-color: #ffff66">This text has a yellow background.</span>
+* <span style="background-color: #03228D"><font color=white>ICASSP 2024</font></span>
 
 
 Journal Publications:
