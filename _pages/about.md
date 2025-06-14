@@ -21,6 +21,8 @@ I am Ling Lin, a Ph.D. candidate at the University of Science and Technology of 
 ======
 (*: Equal contribution, †: Corresponding author )
 
+* three papers in submission.
+
 ## Conference Publications:
 * <span style="background-color: #03228D"><font color=white size=3>ICASSP 2024</font></span> (<font color=orange>CCF-B</font>) **Ling Lin**, Congcong Zhu<sup>†</sup>, Lin Zhou, Jingrun Chen. [Toward quantifiable face age transformation](https://ieeexplore.ieee.org/abstract/document/10448304). In Proceedings of IEEE International Conference on Acoustics,Speech and Signal Processing (ICASSP), 2024.
 * <span style="background-color: #03228D"><font color=white size=3>ICME 2023</font></span> (<font color=orange>CCF-B</font>) Mei Ma<sup><font size=4>* </font></sup>, **Ling Lin**<sup><font size=4>*</font></sup>, Heng Wang<sup>†</sup>, Zhendong Li<sup>†</sup>, Hao Liu. [Cross-modality fourier feature for medical image synthesis](https://ieeexplore.ieee.org/abstract/document/10219611). In Proceedings of IEEE International Conference on Multimedia& Expo (ICME), 2023. (<font color=red>Oral</font>)
