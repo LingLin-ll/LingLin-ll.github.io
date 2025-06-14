@@ -9,7 +9,7 @@ redirect_from:
 
 I am Ling Lin, a Ph.D. candidate at the University of Science and Technology of China (中国科学技术大学), in the [SCAI Lab](http://scai.sz.ustc.edu.cn/main.htm), under the supervision of Professor [Jingrun Chen (陈景润)](https://sz.ustc.edu.cn/rcdw_show/46.html). My research interests lie primarily in **computer vision**, **multimodal learning**, and **embodied perception**.
 
-A data-driven personal website
+🔥 News
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
