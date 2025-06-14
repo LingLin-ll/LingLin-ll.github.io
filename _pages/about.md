@@ -13,7 +13,7 @@ I am Ling Lin, a Ph.D. candidate at the University of Science and Technology of 
 ======
 * 2024.09 🧑‍🎓 Started Ph.D. journey at USTC.
 * 2024.06 🎉 One first-authored paper has been accepted by IEEE TCSVT ($\color{orange}{CCF-B}$, IF=8.3)
-* 2024.01 🎉 One first-authored paper has been accepted by IEEE TIP ($\color{red}{CCF-A}$, IF=10.8)
+* 2024.01 🎉 One first-authored paper has been accepted by IEEE TIP (\color{red}{CCF-A}, IF=10.8)
 * 2023.12 🎉 One first-authored paper has been accepted by ICASSP'24 ($\color{yellow}{CCF-B}$, IF=8.3)
 
 
