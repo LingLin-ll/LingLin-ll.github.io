@@ -34,6 +34,7 @@ I am Ling Lin, a Ph.D. candidate at the University of Science and Technology of 
 🥇 Honors and Awards
 ======
 * 2024.10 Doctoral First-Class Academic Scholarship, (博士一等学业奖学金), USTC
+* 2025.10 Doctoral First-Class Academic Scholarship, (博士一等学业奖学金), USTC
 
 <!--Academic Service
 ======
