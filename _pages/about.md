@@ -11,6 +11,7 @@ I am Ling Lin, a Ph.D. candidate at the University of Science and Technology of 
 
 🔥 News
 ======
+* 2026.01 🎉 One first-authored paper has been accepted by **IEEE TNNLS** (<font color=orange>CCF-B</font>, IF=8.9)
 * 2024.09 🧑‍🎓 Started Ph.D. journey at USTC.
 * 2024.06 🎉 One first-authored paper has been accepted by **IEEE TCSVT** (<font color=orange>CCF-B</font>, IF=8.3)
 * 2024.01 🎉 One first-authored paper has been accepted by **IEEE TIP** (<font color=red>CCF-A</font>, IF=10.8)
@@ -28,6 +29,8 @@ I am Ling Lin, a Ph.D. candidate at the University of Science and Technology of 
 * <span style="background-color: #03228D"><font color=white size=3>ICME 2023</font></span> (<font color=orange>CCF-B</font>) Mei Ma<sup><font size=4>* </font></sup>, **Ling Lin**<sup><font size=4>*</font></sup>, Heng Wang<sup>†</sup>, Zhendong Li<sup>†</sup>, Hao Liu. [Cross-modality fourier feature for medical image synthesis](https://ieeexplore.ieee.org/abstract/document/10219611). In Proceedings of IEEE International Conference on Multimedia& Expo (ICME), 2023. (<font color=red>Oral</font>)
 
 ## Journal Publications:
+* <span style="background-color: #03228D"><font color=white size=3>TNNLS</font></span> (<font color=orange>CCF-B</font>) **Ling Lin**<sup><font size=4>* </font></sup>, Yaoxing Wang<sup><font size=4>*</font></sup>, Congcong Zhu<sup>†</sup>, Jingrun Chen. 
+A2Net: Affiliation Alignment Networks for Whole-Body Pose Estimation with Vision-Language Models. In Proceedings of IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026.
 * <span style="background-color: #03228D"><font color=white size=3>TCSVT</font></span> (<font color=orange>CCF-B</font>) **Ling Lin**<sup><font size=4>* </font></sup>, Tao Wang<sup><font size=4>*</font></sup>, Hao Liu, Congcong Zhu<sup>†</sup>, Jingrun Chen. [Toward Quantifiable Face Age Transformation Under Attribute Unbias](https://ieeexplore.ieee.org/abstract/document/10583942). In Proceedings of IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.
 * <span style="background-color: #03228D"><font color=white size=3>TIP</font></span> (<font color=red>CCF-A</font>) **Ling Lin**, Hao Liu<sup>†</sup>, Jinqiao Liang, Zhendong Li, Jiao Feng, Hu Han. [Consensus-Agent Deep Reinforcement Learning for Face Aging](https://ieeexplore.ieee.org/abstract/document/10458950). In Proceedings of IEEE Transactions on Image Processing (TIP), 2024.
 
