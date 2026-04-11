@@ -15,17 +15,18 @@ I am Ling Lin, a Ph.D. candidate at the University of Science and Technology of 
 * 2024.09 🧑‍🎓 Started Ph.D. journey at USTC.
 * 2024.06 🎉 One first-authored paper has been accepted by **IEEE TCSVT** (<font color=orange>CCF-B</font>, IF=8.3)
 * 2024.01 🎉 One first-authored paper has been accepted by **IEEE TIP** (<font color=red>CCF-A</font>, IF=10.8)
-* 2023.12 🎉 One first-authored paper has been accepted by **ICASSP 2024** (<font color=orange>CCF-B</font>)
+* 2023.12 🎉 Two papers have been accepted by **ICASSP 2024** (<font color=orange>CCF-B</font>)
 
 
 📖 Publications
 ======
 (*: Equal contribution, †: Corresponding author )
 
-* two papers in submission.
+* three papers in submission.
 
 ## Conference Publications:
 * <span style="background-color: #03228D"><font color=white size=3>ICASSP 2024</font></span> (<font color=orange>CCF-B</font>) **Ling Lin**, Congcong Zhu<sup>†</sup>, Lin Zhou, Jingrun Chen. [Toward quantifiable face age transformation](https://ieeexplore.ieee.org/abstract/document/10448304). In Proceedings of IEEE International Conference on Acoustics,Speech and Signal Processing (ICASSP), 2024.
+* <span style="background-color: #03228D"><font color=white size=3>ICASSP 2024</font></span> (<font color=orange>CCF-B</font>) Yaoxing Wang, Qian Yu, **Ling Lin**, Zhendong Li, Hao Liu. [Language-driven ordinal learning for imbalanced head pose estimation](https://ieeexplore.ieee.org/abstract/document/10448404/). In Proceedings of IEEE International Conference on Acoustics,Speech and Signal Processing (ICASSP), 2024.
 * <span style="background-color: #03228D"><font color=white size=3>ICME 2023</font></span> (<font color=orange>CCF-B</font>) Mei Ma<sup><font size=4>* </font></sup>, **Ling Lin**<sup><font size=4>*</font></sup>, Heng Wang<sup>†</sup>, Zhendong Li<sup>†</sup>, Hao Liu. [Cross-modality fourier feature for medical image synthesis](https://ieeexplore.ieee.org/abstract/document/10219611). In Proceedings of IEEE International Conference on Multimedia& Expo (ICME), 2023. (<font color=red>Oral</font>)
 
 ## Journal Publications:
