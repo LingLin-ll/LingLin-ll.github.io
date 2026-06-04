@@ -11,6 +11,7 @@ I am Ling Lin, a Ph.D. candidate at the University of Science and Technology of 
 
 🔥 News
 ======
+* 2026.05 ✈️ Awarded the CSC Scholarship to visit the National University of Singapore (NUS) as a joint Ph.D. student.
 * 2026.01 🎉 One first-authored paper has been accepted by **IEEE TNNLS** (<font color=orange>CCF-B</font>, IF=8.9)
 * 2024.09 🧑‍🎓 Started Ph.D. journey at USTC.
 * 2024.06 🎉 One first-authored paper has been accepted by **IEEE TCSVT** (<font color=orange>CCF-B</font>, IF=8.3)
