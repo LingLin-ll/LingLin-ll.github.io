@@ -21,6 +21,8 @@ I am Ling Lin, a Ph.D. candidate at the University of Science and Technology of 
 
 📖 Publications
 ======
+[![Google Scholar total citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DIk3Y1h0AAAAJ&style=flat&label=Google%20Scholar%20Citations&color=03228D&cacheSeconds=86400)](https://scholar.google.com/citations?user=Ik3Y1h0AAAAJ&hl=en "View my Google Scholar profile; citation counts update automatically with caching.")
+
 (*: Equal contribution, †: Corresponding author )
 
 * four papers in submission.
