@@ -25,6 +25,10 @@ I am Ling Lin, a Ph.D. candidate at the University of Science and Technology of 
 
 * four papers in submission.
 
+## Preprints:
+* <span style="background-color: #03228D"><font color=white size=3>arXiv 2026</font></span> **Ling Lin**, Yang Bai, Congcong Zhu, Jiangming Shi, Meng Wang, Yang Long, Jingrun Chen, Ling Shao, Huazhu Fu. [Advantage-Guided Gate: Reshaping Open-Ended Reasoning for Vision-Based Spatial Intelligence](https://arxiv.org/abs/2608.07987). arXiv preprint arXiv:2608.07987, 2026. [[PDF](https://arxiv.org/pdf/2608.07987)]
+* <span style="background-color: #03228D"><font color=white size=3>arXiv 2026</font></span> **Ling Lin**, Yang Bai, Heng Su, Congcong Zhu, Yaoxing Wang, Yang Zhou, Huazhu Fu, Jingrun Chen. [OODBench: Out-of-Distribution Benchmark for Large Vision-Language Models](https://arxiv.org/abs/2602.18094). arXiv preprint arXiv:2602.18094, 2026. [[PDF](https://arxiv.org/pdf/2602.18094)]
+
 ## Conference Publications:
 * <span style="background-color: #03228D"><font color=white size=3>ICASSP 2024</font></span> (<font color=orange>CCF-B</font>) **Ling Lin**, Congcong Zhu<sup>†</sup>, Lin Zhou, Jingrun Chen. [Toward quantifiable face age transformation](https://ieeexplore.ieee.org/abstract/document/10448304). In Proceedings of IEEE International Conference on Acoustics,Speech and Signal Processing (ICASSP), 2024.
 * <span style="background-color: #03228D"><font color=white size=3>ICASSP 2024</font></span> (<font color=orange>CCF-B</font>) Yaoxing Wang, Qian Yu, **Ling Lin**, Zhendong Li, Hao Liu. [Language-driven ordinal learning for imbalanced head pose estimation](https://ieeexplore.ieee.org/abstract/document/10448404/). In Proceedings of IEEE International Conference on Acoustics,Speech and Signal Processing (ICASSP), 2024.
