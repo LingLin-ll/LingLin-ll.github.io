@@ -9,6 +9,16 @@ redirect_from:
 
 I am Ling Lin, a Ph.D. candidate at the University of Science and Technology of China (中国科学技术大学), in the [SCAI Lab](http://scai.sz.ustc.edu.cn/main.htm), under the supervision of Professor [Jingrun Chen (陈景润)](https://sz.ustc.edu.cn/rcdw_show/46.html). My research interests lie primarily in **computer vision**, **multimodal learning**, and **embodied perception**.
 
+<h1 id="education">🎓 Education</h1>
+<div style="display: flex; align-items: center; gap: 20px; margin: 24px 0;">
+  <img src="https://jbyang1987.github.io/ustclogo/%E6%A0%A1%E5%BE%BD/ustc%E6%A0%A1%E5%BE%BD%20%E7%A7%91%E5%A4%A7%E8%93%9D.png" alt="USTC logo" style="width: 80px; height: 80px; object-fit: contain; flex-shrink: 0;">
+  <div><strong>University of Science and Technology of China (USTC)</strong><br>Ph.D. Candidate &middot; Sep. 2024 &ndash; Jun. 2028 (expected)<br>Advisor: <a href="https://sz.ustc.edu.cn/rcdw_show/46.html">Prof. Jingrun Chen</a></div>
+</div>
+<div style="display: flex; align-items: center; gap: 20px; margin: 24px 0 32px;">
+  <img src="https://www.nus.edu.sg/images/default-source/identity-images/nus-vlogo-color.png" alt="NUS logo" style="width: 80px; height: 100px; object-fit: contain; flex-shrink: 0;">
+  <div><strong>National University of Singapore (NUS)</strong><br>Visiting Ph.D. Student (Joint Ph.D. Training)<br>Aug. 2026 &ndash; Aug. 2027<br>Host Advisor: <a href="https://wangm92nus.github.io/">Prof. Meng Wang</a></div>
+</div>
+
 🔥 News
 ======
 * 2026.05 ✈️ Awarded the CSC Scholarship to visit the National University of Singapore (NUS) as a joint Ph.D. student.
